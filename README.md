@@ -6,6 +6,9 @@
 Есть опыт: Python (numpy/pandas/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy), Access и Power BI. 
 Я хорошо разбираюсь в подготовке и обработке данных, а также умею выполнять сбор и анализ информации. Я стараюсь максимально автоматизировать процесс выгрузки и  представления данных, чтобы больше времени уделять их анализу. Больше всего мне нравится находить в данных инсайды меняя которые мы можем улучшить метрики.
 
+##Со мной можно связаться по телефону +7 (958) 584-67-41 или e-mail: dimkochetow@gmail.com
+
+
 https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/
 <!--
 **konicaRu/konicaRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
