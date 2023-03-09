@@ -9,7 +9,7 @@
 ### Со мной можно связаться по телефону +7 (958) 584-67-41 
 ### или e-mail: dimkochetow@gmail.com
 
-'https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/'
+''' https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ '''
 <!--
 **konicaRu/konicaRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
