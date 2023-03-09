@@ -2,7 +2,7 @@
 	<h1>Привет, я Дима</h1>
 	<h3>Аналитик данных из Череповца</h3>
 </div>
-
+https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/
 <!--
 **konicaRu/konicaRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
