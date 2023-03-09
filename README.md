@@ -1,12 +1,12 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Ivan</h1>
-	<h3>Full Stack Developer from New York</h3>
+	<h1>Привет я Дима</h1>
+	<h3>Аналитик данных из Череповца</h3>
 </div>
 
 <!--
 **konicaRu/konicaRu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
