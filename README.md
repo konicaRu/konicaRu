@@ -3,7 +3,6 @@
 	<h3>Аналитик данных из Череповца</h3>
 </div>
 <div id="header" align="left">
-style="text-indent: 25px;"	 
 <h4>Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br> 
 Наша основная задача мониторинг показателей работы call-центра. Я делаю,  поддерживаю и анализирую отчеты основных метрик колл-центра в сводных таблицах и дашбордах, использую Excel, Power Query, Power Pivot, DAX, язык M и SQL.<br>
 Есть опыт: Python (numpy/pandas/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy), Access и Power BI.<br> 
