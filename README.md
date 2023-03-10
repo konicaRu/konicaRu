@@ -12,7 +12,9 @@
 Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br> 
 Наша основная задача мониторинг показателей работы call-центра. <h4> 
 </div>
-
+<a href="[linkedin-url](https://www.linkedin.com/in/dimkochetov/)">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <div id="header" align="left">
 <h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
 или e-mail: dimkochetow@gmail.com <h3> 
