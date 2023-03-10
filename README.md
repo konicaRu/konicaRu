@@ -13,7 +13,7 @@
 Наша основная задача мониторинг показателей работы call-центра. <h4> 
 </div>
 <div id="socials" align="center">
-<a href="[linkedin-url](https://www.linkedin.com/in/dimkochetov/)">
+<a href="https://www.linkedin.com/in/dimkochetov/">
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 	<a href="@konica1970">
