@@ -41,7 +41,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?konicaRu=vn7n24fzkq&theme=github_dark)
 	
-``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
+
