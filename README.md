@@ -30,7 +30,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;	
-	<div id="header" align="left">
+	
+<div id="header" align="left">
 <h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
 или e-mail: dimkochetow@gmail.com <h3> 
 </div>
