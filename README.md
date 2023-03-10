@@ -12,7 +12,7 @@
 	</a>
 </div>
 <div id="header" align="left">
-<h4> Я делаю, поддерживаю и анализирую отчеты, сводные таблицы и дашборды. <br> Умею: Excel, Power Query, Power Pivot, DAX, язык M , Access. Python (numpy/pandas/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy). Выгружаю данные с помощью SQL <br>  
+<h4> Я делаю, поддерживаю и анализирую отчеты, сводные таблицы и дашборды.  Выгружаю данные с помощью SQL <br> Умею: Excel, Power Query, Power Pivot, DAX, язык M , Access. Python (numpy/pandas/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy). <br>  
 Я хорошо разбираюсь в подготовке и обработке данных, а также умею выполнять сбор и анализ информации. Я стараюсь максимально автоматизировать процесс выгрузки и  представления данных, чтобы больше времени уделять их анализу. <br> 
 Больше всего мне нравится находить в данных инсайды меняя которые мы можем улучшить метрики.
 <br> 
