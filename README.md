@@ -43,6 +43,10 @@
 - ⚡ Fun fact: ...
 ``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?konicaRu=vn7n24fzkq&theme=github_dark)
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?konicaRu=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?konicaRu=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?konicaRu=vn7n24fzkq&theme=github_dark"/>
+</div>
 	
 
