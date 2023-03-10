@@ -32,10 +32,6 @@
 или e-mail: dimkochetow@gmail.com <h3> 
 </div>
 
-
-
-
-``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
 ### О себе:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -46,3 +42,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
