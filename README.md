@@ -22,6 +22,7 @@
 Наша основная задача мониторинг показателей работы call-центра. <h4> 
 	
 ### Мой стек:	
+<img src="https://github.com/konicaRu/pictures_blog/blob/master/icons8-microsoft-excel-2019-48.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
