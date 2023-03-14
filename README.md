@@ -11,12 +11,12 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-<div id="header" align="left"><style>
+<div id="header" align="left">
+<h4> <style>
 <!--
 .tab { margin-left: 40px; }
 -->
-</style>
-<h4>Я занимаюсь аналитикой данных с осени 2021 года. <br>
+</style> Я занимаюсь аналитикой данных с осени 2021 года. <br>
 Я умею:<br>
  — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
 — Пишу код, анализирую, строю диаграммы и отчеты используя  Python,  библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
