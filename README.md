@@ -11,8 +11,8 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-<div id="header" >
-<h4><p style="text-indent: 30px;">Я занимаюсь аналитикой данных 3 года. <br>
+<div id="header">
+<h4><p style="text-indent: 30px;">Я занимаюсь аналитикой данных 3 года. </p><br>
 Я умею:<br>
  — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
 — Пишу код, анализирую, строю диаграммы и отчеты используя  Python,  библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
