@@ -12,11 +12,7 @@
 	</a>
 </div>
 <div id="header" align="left">
-<h4> <style>
-<!--
-.tab { margin-left: 40px; }
--->
-</style> Я занимаюсь аналитикой данных с осени 2021 года. <br>
+<h4> <a href="index.html"> Я занимаюсь аналитикой данных с осени 2021 года. <br>
 Я умею:<br>
  — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
 — Пишу код, анализирую, строю диаграммы и отчеты используя  Python,  библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
