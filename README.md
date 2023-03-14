@@ -11,9 +11,9 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-<div id={
-   margin-bottom: 20px;
-} align="left">
+<div id="header" {
+  margin-bottom: 20px; /*задаем отступ в 20px*/
+}>
 <h4> Я занимаюсь аналитикой данных 3 года. <br>
 Я умею:<br>
  — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
