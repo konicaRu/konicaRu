@@ -12,7 +12,9 @@
 	</a>
 </div>
 <div id="header" align="left">
-{text-indent: 20px;} <h4> Я занимаюсь аналитикой данных с осени 2021 года. <br>
+<h4> p {
+  text-indent: 20px;
+} Я занимаюсь аналитикой данных с осени 2021 года. <br>
 Я умею:<br>
  — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
 — Пишу код, анализирую, строю диаграммы и отчеты используя  Python,  библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
