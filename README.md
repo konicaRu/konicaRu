@@ -32,7 +32,11 @@
 или e-mail: dimkochetow@gmail.com <h3> 
 </div>
 
-### О себе:
+
+
+<details>
+    <summary>Название</summary>
+	### О себе:
 - 🔭 Сейчас я работаю над ...
 - 🌱 В настоящее время я учу ...
 - 👯 Я хочу сотрудничать с ...
@@ -42,9 +46,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
-
-<details>
-    <summary>Название</summary>
     <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?konicaru=vn7n24fzkq&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?konicaru=vn7n24fzkq&theme=github_dark"/>
