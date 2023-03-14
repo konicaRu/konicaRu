@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Привет, я Дима</h1>
-	<h3>Аналитик данных</h3>
+	<h2>Аналитик данных</h3>
 </div>
 </div>
 <div id="socials" align="center">
