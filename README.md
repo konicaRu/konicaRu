@@ -14,8 +14,8 @@
 <div id="header" align="left">
 <h4> Я занимаюсь аналитикой данных с осени 2021 года. <br>
 Я умею:<br>
- — Сводные таблицы, диаграммы, анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
-— Пишу код, анализирую, строю диаграммы используя  Python библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
+ — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
+— Пишу код, анализирую, строю диаграммы и отчеты используя  Python,  библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
  — Очень нравится работать с графикой, с удовольствием освоил бы и другие 
 способы визуализации; <br>
  — Составляю запросы, выгружаю данные, предварительно анализирую с помощью SQL;<br>
