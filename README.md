@@ -37,6 +37,8 @@
 <br> 	
 Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br> 
 Наша основная задача мониторинг показателей работы call-центра. <h4>
+<br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
+<br>Мои проекты на Ecxel: https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
 <br> Мой CV https://konicaru.github.io/cv/
 <br> Полный список пройденных курсов https://github.com/konicaRu/my_learning_tracker
 	
