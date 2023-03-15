@@ -39,8 +39,8 @@
 Наша основная задача мониторинг показателей работы call-центра. <h4>
 <br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
 <br>Мои проекты на Ecxel: https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
-<br> Мой CV https://konicaru.github.io/cv/
-<br> Полный список пройденных курсов https://github.com/konicaRu/my_learning_tracker
+<br> Мой CV: https://konicaru.github.io/cv/
+<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker
 	
 ### Мой стек:	
 <img src="https://github.com/konicaRu/pictures_blog/blob/master/icons8-microsoft-excel-2019-48.svg" title="html" width="40" height="40"/>&nbsp;
