@@ -35,13 +35,8 @@
 
 <br> 
 <br> 	
-Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br> 
-Наша основная задача мониторинг показателей работы call-центра. <h4>
-<br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
-<br>Мои проекты на Ecxel: https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
-<br> Мой CV: https://konicaru.github.io/cv/
-<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker
-	
+Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br>
+	Наша основная задача мониторинг показателей работы call-центра. <h4><br>
 ### Мой стек:	
 <img src="https://github.com/konicaRu/pictures_blog/blob/master/icons8-microsoft-excel-2019-48.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
@@ -49,6 +44,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
 
 	
+<br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
+<br>Мои проекты на Ecxel: https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
+<br> Мой CV: https://konicaru.github.io/cv/
+<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker
+	
+
 <div id="header" align="left">
 <h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
 или e-mail: dimkochetow@gmail.com <h3> 
