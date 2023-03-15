@@ -32,22 +32,21 @@
 Читаю книги: из понравившихся: "Голая статистика" Чарльз Уилан, "Черный лебедь"  Талеб Нассим, "Думай медленно решай быстро" Даниель Канеман.   Слежу за каналами Анатолия Карпова, GoPractice! и др. Изучаю английский язык, занимаюсь скандинавской ходьбой и воркаутом. Смотрю гонки Формула -1, хожу в походы.<br>
 <br>
 Хочу попасть в сильную и любящую свое дело команду :)
-
 <br> 
 <br> 	
 Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br>
 	Наша основная задача мониторинг показателей работы call-центра. <h4><br>
-<h3>Мой стек:</h3><br>	
+<h3>Мой стек:</h3>
 <img src="https://github.com/konicaRu/pictures_blog/blob/master/icons8-microsoft-excel-2019-48.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
 
 	
-<h3><br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
+<h4><br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
 <br>Мои проекты на Ecxel: https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
 <br> Мой CV: https://konicaru.github.io/cv/
-<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker</h3>
+<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker</h4>
 	
 
 <div id="header" align="left">
