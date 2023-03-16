@@ -42,7 +42,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
 </div>
-###Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
+<br>
+### Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
 <br>Мои проекты на Ecxel:       https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
 <br> Мой CV:                    https://konicaru.github.io/cv/
 <br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker
