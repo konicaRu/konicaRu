@@ -47,9 +47,9 @@
 |Мои проекты на Python:| https://github.com/konicaRu/i_am_data_analyst|
 |----------------------|----------------------------------------------|
 |Мои проекты на Ecxel: |https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task|
-<br> Мой CV:                    https://konicaru.github.io/cv/
-<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker
-<br> Мой блог: https://konicaru.github.io </h4>	
+|Мой CV:     |               https://konicaru.github.io/cv/|
+|Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
+|Мой блог: |https://konicaru.github.io|	
 
 <div id="header" align="left">
 <h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
