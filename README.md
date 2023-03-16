@@ -45,7 +45,7 @@
 <h4><br> Мои проекты на Python: https://github.com/konicaRu/i_am_data_analyst
 <br>Мои проекты на Ecxel:       https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task
 <br> Мой CV:                    https://konicaru.github.io/cv/
-<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker</h4>
+<br> Полный список пройденных курсов: https://github.com/konicaRu/my_learning_tracker
 <br> Мой блог: [https://github.com/konicaRu/my_learning_tracker](https://konicaru.github.io/)</h4>	
 
 <div id="header" align="left">
