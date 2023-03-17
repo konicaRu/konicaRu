@@ -57,7 +57,7 @@
 или e-mail: dimkochetow@gmail.com <h3> 
 </div>
 	
-![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov_cv.jpg)
+![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov.jpg)
 
 
 <details>
