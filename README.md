@@ -58,7 +58,8 @@
     +7 (958) 584-67-41
   </p>
   <p style="margin: 0;">
-    <img src="https://user-images.githubusercontent.com/53256405/228780392-c8c515d7-6707-48d3-ad48-c5a39c628412.png" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
+    <img src="https://user-images.githubusercontent.com/53256405/228780679-6ba660d9-99cb-4f2b-8020-b380405d537f.png
+" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
     dimkochetow@gmail.com
   </p>
   <p style="margin: 0;">
