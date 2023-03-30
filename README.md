@@ -56,9 +56,16 @@
 <h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
 или e-mail: dimkochetow@gmail.com <h3> 
 
-</div>
-	
-	<div style="font-size: 14px; font-family: Arial, sans-serif;">
+<div style="font-size: 14px; font-family: Arial, sans-serif;">
+  <p style="margin: 0;">Со мной можно связаться:</p>
+  <p style="margin: 0;">
+    <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/phone-512.png" alt="Телефон" width="20" height="20" style="vertical-align: middle;">
+    +7 (958) 584-67-41
+  </p>
+  <p style="margin: 0;">
+    <img src="https://cdn3.iconfinder.com/data/icons/faticons/32/email-01-512.png" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
+    dimkochetow@gmail.com
+  </p>
   <p style="margin: 0;">
     <a href="https://t.me/konica1970" target="_blank" style="color: #000000; text-decoration: none;">
       <img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="20" height="20" style="vertical-align: middle;">
