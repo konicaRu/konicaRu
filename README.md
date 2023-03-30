@@ -55,6 +55,7 @@
 <div id="header" align="left">
 <h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
 или e-mail: dimkochetow@gmail.com <h3> 
+
 </div>
 	
 	<div style="font-size: 14px; font-family: Arial, sans-serif;">
