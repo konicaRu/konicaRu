@@ -63,7 +63,7 @@
     +7 (958) 584-67-41
   </p>
   <p style="margin: 0;">
-    <img src="https://cdn3.iconfinder.com/data/icons/faticons/32/email-01-512.png" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
+    <img src="https://cdn3.iconfinder.com/data/icons/faticons/32/email-01-512.png" alt="e-mail" width="20" height="20" style="vertical-align: middle;">
     dimkochetow@gmail.com
   </p>
   <p style="margin: 0;">
