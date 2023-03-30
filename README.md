@@ -51,11 +51,6 @@
 |Мой CV:     |               https://konicaru.github.io/cv/|
 |Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
 |Мой блог: |https://konicaru.github.io|	
-
-<div id="header" align="left">
-<h3>со мной можно связаться по телефону +7 (958) 584-67-41 <br> 
-или e-mail: dimkochetow@gmail.com <h3> 
-
 <div style="font-size: 14px; font-family: Arial, sans-serif;">
   <p style="margin: 0;">Со мной можно связаться:</p>
   <p style="margin: 0;">
@@ -73,8 +68,8 @@
     </a>
   </p>
   <p style="margin: 0;">
-    <a href="https://drive.google.com/file/d/1V6QH0fVICFKNkZbO9_sXt6qfT3g0pHxr/view?usp=share_link" target="_blank" style="color: #000000; text-decoration: none;">
-      <img src="https://drive.google.com/file/d/1V6QH0fVICFKNkZbO9_sXt6qfT3g0pHxr/view?usp=share_link" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;">
+    <a href="https://wa.me/79643046505?text=Здравствуйте,%20я%20хочу%20связаться%20с%20вами." target="_blank" style="color: #000000; text-decoration: none;">
+      <img src="https://www.whatsapp.com/img/v4/whatsapp-logo.svg" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;">
       +7 (964) 304-65-05
     </a>
   </p>
