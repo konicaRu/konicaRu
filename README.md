@@ -58,7 +58,7 @@
     +7 (958) 584-67-41
   </p>
   <p style="margin: 0;">
-    <img src="https://cdn3.iconfinder.com/data/icons/faticons/32/email-01-512.png" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
+    <img src="https://user-images.githubusercontent.com/53256405/228780392-c8c515d7-6707-48d3-ad48-c5a39c628412.png" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
     dimkochetow@gmail.com
   </p>
   <p style="margin: 0;">
@@ -74,6 +74,7 @@
     </a>
   </p>
 </div>
+
 	
 ![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov.jpg)
 
