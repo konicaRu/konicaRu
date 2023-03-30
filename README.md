@@ -57,6 +57,21 @@
 или e-mail: dimkochetow@gmail.com <h3> 
 </div>
 	
+	<div style="font-size: 14px; font-family: Arial, sans-serif;">
+  <p style="margin: 0;">
+    <a href="https://t.me/konica1970" target="_blank" style="color: #000000; text-decoration: none;">
+      <img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="20" height="20" style="vertical-align: middle;">
+      @konica1970
+    </a>
+  </p>
+  <p style="margin: 0;">
+    <a href="https://wa.me/79643046505" target="_blank" style="color: #000000; text-decoration: none;">
+      <img src="https://www.whatsapp.com/img/v4/whatsapp-logo.svg" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;">
+      +7 (964) 304-65-05
+    </a>
+  </p>
+</div>
+	
 ![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov.jpg)
 
 
