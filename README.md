@@ -51,7 +51,8 @@
 |Мой CV:     |               https://konicaru.github.io/cv/|
 |Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
 |Мой блог: |https://konicaru.github.io|	
-<div style="font-size: 14px; font-family: Arial, sans-serif;">
+
+<div style="font-size: 16px; font-family: Arial, sans-serif;">
   <p style="margin: 0;">Со мной можно связаться:</p>
   <p style="margin: 0;">
     <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/phone-512.png" alt="Телефон" width="20" height="20" style="vertical-align: middle;">
