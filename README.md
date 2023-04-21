@@ -48,9 +48,9 @@
 |Мои проекты на Python:| https://github.com/konicaRu/i_am_data_analyst|
 |:----------------------|:----------------------------------------------|
 |Мои проекты на Excel: |https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task|
-|Мой CV:     |               https://konicaru.github.io/cv/|
 |Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
-|Мой блог: |https://konicaru.github.io|	
+|Мой блог: |                                             https://konicaru.github.io|
+|Мой CV:     |                                       https://konicaru.github.io/cv/|
 
 <div style="font-size: 18px; font-family: Arial, sans-serif;">
   <p style="margin: 0;">Со мной можно связаться:</p>
