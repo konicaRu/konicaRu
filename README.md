@@ -36,7 +36,7 @@
 <br> 
 <br> 	
 Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br>
-	Наша основная задача мониторинг показателей работы call-центра. <h4>
+	Наша основная задача мониторинг показателей работы центра учета обращений. <h4>
 <h3>Мой стек:</h3>
 <img src="https://github.com/konicaRu/pictures_blog/blob/master/icons8-microsoft-excel-2019-48.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
