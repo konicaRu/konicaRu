@@ -50,6 +50,7 @@
 |----------------------|--------------------------------------------------------------------|
 |Мои проекты на Python:| https://github.com/konicaRu/i_am_data_analyst|
 |Мои проекты на Excel: |https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task|
+|Мой проект Power BI: |https://github.com/konicaRu/i_am_data_analyst/blob/master/AdventureWorks_Report1.pdf|
 |Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
 |Мой блог: |                                             https://konicaru.github.io|
 |Мой CV:     |                                       https://konicaru.github.io/cv/|
