@@ -54,6 +54,7 @@
 |Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
 |Мой блог: |                                             https://konicaru.github.io|
 |Мой CV:     |                                       https://konicaru.github.io/cv/|
+|Курсы, книги, видео, для начинающих аналитиков:     |https://docs.google.com/document/d/1xUZYKFIeMKvZDJDfHD9guJNFtP1UnnWhY1d-aUC0nwc/edit?usp=sharing|
 
 <div style="font-size: 18px; font-family: Arial, sans-serif;">
   <p style="margin: 0;">Со мной можно связаться:</p>
