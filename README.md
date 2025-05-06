@@ -75,7 +75,7 @@
   <p style="margin: 0;">
     <a href="https://wa.me/79643046505?text=Здравствуйте,%20я%20хочу%20связаться%20с%20вами." target="_blank" style="color: #000000; text-decoration: none;">
       <img src="https://user-images.githubusercontent.com/53256405/228781251-df83c55e-8be7-472b-ac0d-3555b7a069ea.png" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;">
-      +7 (964) 304-65-05
+      +7 (958) 584-67-41
     </a>
   </p>
 </div>
