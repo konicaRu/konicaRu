@@ -39,22 +39,32 @@
 
 ## Проекты
 
-> ⚠️ Ссылка на **HH Bot** сейчас ведёт на приватный репозиторий — GitHub отдаёт 404 для незалогиненного визитора. Сделай его публичным в настройках репозитория (Settings → Danger Zone → Change visibility), иначе работодатель увидит битую ссылку.
-
 | Проект | Описание | Стек | Ссылка |
 | --- | --- | --- | --- |
-| **F1 Predict** | Закрытая лига прогнозов на гонки Формулы-1: расчёт очков, автоматизация через CI/CD, уведомления в Telegram | React · Supabase (Postgres, Auth, RLS) · GitHub Actions | [репозиторий](https://github.com/konicaRu/f1-predict) ✅ |
-| **Local RAG Pipeline** | RAG-система для поиска по внутренней технической документации: двухэтапный скоринг (embeddings + LLM-оценка), реранкер, память диалога — полностью локально, ни одного внешнего API-вызова. В проде на реальной базе — ~1300 документов, ответ за 5–20 сек. Анонимизированная демо-версия рабочего проекта, с разбором архитектуры для Хабра | Python · FastAPI · bge-m3 · Qwen2.5 · llama-cpp-python | [репозиторий](https://github.com/konicaRu/a3_product_759_RAG_public) ✅ |
-| **A3 PDF Markdown** | Desktop-приложение для batch-конвертации PDF/DOCX/PPTX/XLSX в Markdown с OCR и точечным vision-fallback для графиков и схем | Python · PySide6 · PyMuPDF · EasyOCR | [репозиторий](https://github.com/konicaRu/a3_pdf_markdown) ✅ |
-| **HH Vacancy Tracker** | Инструмент сбора и фильтрации вакансий с hh.ru с ручным review, покрыт тестами | Python · Streamlit · pytest | [репозиторий](https://github.com/konicaRu/hh_api_vacany) ✅ |
-| **HH Bot** | Бот-ассистент для откликов на вакансии: парсинг, оценка через LLM, генерация сопроводительного письма | Python · LLM | [репозиторий](https://github.com/konicaRu/hh-bot) ⚠️ приватный |
-| **Editable Mind Map** | Редактируемая радиальная mind-map: drag/zoom/pan, фильтры по тегам, сохранение в localStorage/JSON, без сборки | Vanilla JS (ES-модули) | [репозиторий](https://github.com/konicaRu/mindmap) ✅ |
+| **F1 Predict** | Закрытая лига прогнозов на гонки Формулы-1: расчёт очков, автоматизация через CI/CD, уведомления в Telegram | React · Supabase (Postgres, Auth, RLS) · GitHub Actions | [репозиторий](https://github.com/konicaRu/f1-predict) |
+| **Local RAG Pipeline** | RAG-система для поиска по внутренней технической документации: двухэтапный скоринг (embeddings + LLM-оценка), реранкер, память диалога — полностью локально, ни одного внешнего API-вызова. В проде на реальной базе — ~1300 документов, ответ за 5–20 сек. Анонимизированная демо-версия рабочего проекта, с разбором архитектуры для Хабра | Python · FastAPI · bge-m3 · Qwen2.5 · llama-cpp-python | [репозиторий](https://github.com/konicaRu/a3_product_759_RAG_public) |
+| **A3 PDF Markdown** | Desktop-приложение для batch-конвертации PDF/DOCX/PPTX/XLSX в Markdown с OCR и точечным vision-fallback для графиков и схем | Python · PySide6 · PyMuPDF · EasyOCR | [репозиторий](https://github.com/konicaRu/a3_pdf_markdown) |
+| **HH Vacancy Tracker** | Инструмент сбора и фильтрации вакансий с hh.ru с ручным review, покрыт тестами | Python · Streamlit · pytest | [репозиторий](https://github.com/konicaRu/hh_api_vacany) |
+| **Editable Mind Map** | Редактируемая радиальная mind-map: drag/zoom/pan, фильтры по тегам, сохранение в localStorage/JSON, без сборки | Vanilla JS (ES-модули) | [репозиторий](https://github.com/konicaRu/mindmap) |
 
 <details>
-<summary><b>Ранние учебные проекты</b> (Excel, Python, SQL, Power BI — период обучения)</summary>
+<summary><b>Ранние проекты — Яндекс.Практикум</b> (Excel, Python, SQL, Tableau, ML — период обучения)</summary>
 <br>
 
-- [i_am_data_analyst](https://github.com/konicaRu/i_am_data_analyst) — архив учебных проектов: Excel, Python, Power BI
+| №   | Проект | Что сделано | Навыки |
+| --- | --- | --- | --- |
+| 1   | [Рынок недвижимости Петербурга](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/2_project_research_data_analysis/2_project_flat_for_sale.ipynb) | Определил, какие параметры сильнее всего влияют на цену квартиры — для автоматической системы оценки | Python, Pandas, Matplotlib, EDA |
+| 2   | [Тарифы телеком-оператора](https://nbviewer.jupyter.org/github/konicaRu/data_analyst/blob/master/3_project_statistical_analysis_data/3_project_telecom_tariff.ipynb) | Проверил статистическую разницу в выручке между тарифами, дал рекомендации отделу маркетинга | Python, Pandas, SciPy, проверка гипотез |
+| 3   | [Продажи компьютерных игр, 1992–2016](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/4_complete_project_1/complete_project_1_computer%20games.ipynb) | Исследовал рынок игр для планирования рекламных кампаний и закупок | Python, Pandas, NumPy, EDA |
+| 4   | [Юнит-экономика Яндекс.Афиши](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/6_project_analytics_in_yandex_afisha_3send/6_project%20_analytics_in_yandex_afisha_3send.ipynb) | Когортный анализ окупаемости клиентов — нашёл, где теряется конверсия на мобильных устройствах | Python, когортный анализ, юнит-экономика |
+| 5   | [Приоритизация гипотез + A/B-тест](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/7_project_a_b_test_2_send/7_project%20_a_b_test_2_send.ipynb) | ICE/RICE-приоритизация гипотез роста выручки и анализ результатов A/B-теста интернет-магазина | Python, SciPy, A/B-тестирование |
+| 6   | [Рынок общепита Москвы](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/8_project_public_catering_msk/8_project%20_public_catering_1send.ipynb) | Оценил перспективность формата кафе с роботами-официантами для презентации инвесторам | Python, Pandas, Plotly, Seaborn |
+| 7   | [Воронка продаж в мобильном приложении](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/9_project_ab_test/9_together_in_git_ab_test.ipynb) | A/A/B-тест и анализ воронки продуктового стартапа: конверсия в оплату 47% | Python, событийная аналитика, A/B-тестирование |
+| 8   | [Дашборд для Яндекс.Дзена](https://public.tableau.com/profile/dim6669#!/vizhome/10_project_ya_practik/Dashboard1) | Интерактивный дашборд по взаимодействиям с карточками статей с сортировкой по темам, времени, возрасту аудитории | Tableau, PostgreSQL, SQLAlchemy |
+| 9   | [Отток клиентов фитнес-клуба (ML)](https://nbviewer.jupyter.org/github/konicaRu/i_am_data_analyst/blob/master/11_project_ML_fitness_club/11_ML_project_1_send.ipynb) | Прогноз вероятности оттока и кластеризация клиентских портретов | Python, scikit-learn, классификация, кластеризация |
+
+Весь список с разбором — в [i_am_data_analyst](https://github.com/konicaRu/i_am_data_analyst).
+
 - [my_learning_tracker](https://github.com/konicaRu/my_learning_tracker) — трекер пройденных курсов
 - [data_structures_and_algorithms](https://github.com/konicaRu/data_structures_and_algorithms) — задачи по алгоритмам и структурам данных
 - [Блог](https://konicaru.github.io) — заметки о процессе обучения
