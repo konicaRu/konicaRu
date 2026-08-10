@@ -1,0 +1,61 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320"
+     role="img" aria-labelledby="title desc"
+     font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif">
+  <title id="title">Дмитрий Кочетов — продуктовый аналитик и аналитик данных</title>
+  <desc id="desc">Профиль на GitHub: от гипотезы до продакшена — A/B-тесты, продуктовые метрики, BI и RAG/LLM-инструменты. Статус: в активном поиске работы. Карточка с реальными результатами: +10% конверсии в оплату, минус 18% негативных обращений, +8% выручки за квартал.</desc>
+
+  <rect width="1200" height="320" rx="24" fill="#0B0F19"/>
+
+  <g id="title-block" transform="translate(64 0)" fill="#F5F7FA">
+    <text x="0" y="54" font-size="18" letter-spacing="2" fill="#9AA5B1">ПРОДУКТОВЫЙ АНАЛИТИК · АНАЛИТИК ДАННЫХ</text>
+    <text x="0" y="104" font-size="46" font-weight="700">Дмитрий Кочетов</text>
+    <text x="0" y="140" font-size="20" fill="#9AA5B1">От гипотезы до продакшена:</text>
+    <text x="0" y="168" font-size="20" fill="#9AA5B1">A/B-тесты · продуктовые метрики · BI · RAG/LLM</text>
+
+    <circle cx="8" cy="206" r="6" fill="#34D399"/>
+    <text x="24" y="212" font-size="18">В активном поиске работы</text>
+
+    <g font-size="16" fill="#F5F7FA">
+      <rect x="0" y="236" width="66" height="34" rx="17" fill="#131A26" stroke="#22303F"/>
+      <text x="15" y="258">SQL</text>
+
+      <rect x="78" y="236" width="82" height="34" rx="17" fill="#131A26" stroke="#22303F"/>
+      <text x="93" y="258">Python</text>
+
+      <rect x="172" y="236" width="56" height="34" rx="17" fill="#131A26" stroke="#22303F"/>
+      <text x="187" y="258">BI</text>
+
+      <rect x="240" y="236" width="64" height="34" rx="17" fill="#131A26" stroke="#22303F"/>
+      <text x="255" y="258">A/B</text>
+
+      <rect x="316" y="236" width="70" height="34" rx="17" fill="#131A26" stroke="#22303F"/>
+      <text x="331" y="258">RAG</text>
+    </g>
+  </g>
+
+  <g id="proof-card" transform="translate(740 40)">
+    <rect x="0" y="0" width="400" height="240" rx="20" fill="#131A26" stroke="#22303F"/>
+
+    <text x="28" y="26" font-size="18" fill="#9AA5B1">Реальные результаты</text>
+    <g fill="#5EEAD4" opacity="0.6">
+      <rect x="320" y="26" width="6" height="6" rx="1"/>
+      <rect x="330" y="22" width="6" height="10" rx="1"/>
+      <rect x="340" y="18" width="6" height="14" rx="1"/>
+      <rect x="350" y="14" width="6" height="18" rx="1"/>
+      <rect x="360" y="10" width="6" height="22" rx="1"/>
+    </g>
+
+    <text x="28" y="82" font-size="34" font-weight="700" fill="#5EEAD4">+10%</text>
+    <text x="150" y="70" font-size="18" fill="#F5F7FA">конверсия в оплату</text>
+    <text x="150" y="92" font-size="15" fill="#9AA5B1">A/B-тест напоминаний</text>
+
+    <text x="28" y="146" font-size="34" font-weight="700" fill="#5EEAD4">−18%</text>
+    <text x="150" y="134" font-size="18" fill="#F5F7FA">негативных обращений</text>
+    <text x="150" y="156" font-size="15" fill="#9AA5B1">LLM-разметка тональности</text>
+
+    <text x="28" y="210" font-size="34" font-weight="700" fill="#5EEAD4">+8%</text>
+    <text x="150" y="198" font-size="18" fill="#F5F7FA">выручка за квартал</text>
+    <text x="150" y="220" font-size="15" fill="#9AA5B1">факт по новому тарифу</text>
+  </g>
+</svg>
