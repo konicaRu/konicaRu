@@ -1,107 +1,68 @@
-<div id="header" align="center">
-	<h1>Привет, я Дима</h1>
-	<h2>аналитик данных</h3>
-</div>
-</div>
-<div id="socials" align="center">
-<a href="https://www.linkedin.com/in/dimkochetov/">
-	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-	<a href="https://t.me/konica1970/">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-</div>
-<div id="header">
-<h4>Я занимаюсь аналитикой данных 5 лет.<br>
-Я умею:<br>
- — Отчеты, сводные таблицы, диаграммы анализ данных с помощью формул в Excel, Power Query, Power Pivot, DAX, язык M, Access<br>
-— Пишу код, анализирую, строю диаграммы и отчеты используя  Python,  библиотеки Pandas/numpy/plotly/matplotlib/scikit-learn/ seaborn/requests/ BeautifulSoup/SciPy;<br>
- — Очень нравится работать с графикой, с удовольствием освоил бы и другие 
-способы визуализации; <br>
- — Составляю запросы, выгружаю данные, предварительно анализирую с помощью SQL;<br>
-— В Яндекс Практикуме рассчитывал LTV, CAC, ROI, ROAS. Проводил А/В тесты <br>
-— Могу работать с макетами в Adobe Photoshop, Corel Draw, монтировать видео в Adobe Premiere Pro; <br>
-— Распределять и декомпозировать задачи; <br>
-— Читать документацию, на английском языке (B1). <br>
-<br>
-	
-Я разбираюсь в подготовке и обработке данных, а также умею выполнять сбор и анализ информации. Я стараюсь максимально автоматизировать процесс выгрузки и представления данных, чтобы больше времени уделять их анализу.
-Мне нравится находить «узкие» места и новые точки роста.
-<br>
-<br>
-В свободное время:<br>
-Читаю книги: из понравившихся: "Голая статистика" Чарльз Уилан, "Черный лебедь"  Талеб Нассим, "Думай медленно решай быстро" Даниель Канеман.   Слежу за каналами Анатолия Карпова, GoPractice! и др. Изучаю английский язык, занимаюсь скандинавской ходьбой и воркаутом. Смотрю гонки Формула -1, хожу в походы.<br>
-<br>
-Хочу попасть в сильную и любящую свое дело команду :)
-<br> 
-<br> 	
-Сейчас я удаленно работаю в команде аналитиков  управлении клиентской поддержки ОАО "Газпромбанк".<br>
-	Наша основная задача мониторинг показателей работы центра учета обращений. <h4>
-<h3>Мой стек:</h3>
-<img src="https://github.com/konicaRu/pictures_blog/blob/master/icons8-microsoft-excel-2019-48.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="css" width="40" height="40"/>&nbsp;
-</div>
-<br>
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%"
+       alt="Дмитрий Кочетов — продуктовый аналитик и аналитик данных. От гипотезы до продакшена: A/B-тесты, продуктовые метрики, BI, RAG/LLM. В активном поиске работы. +10% конверсии в оплату, −18% негативных обращений, +8% выручки за квартал.">
+</p>
 
+## Ключевые кейсы
 
-|Список проектов       |Ссылки                                                              |
-|----------------------|--------------------------------------------------------------------|
-|Мои проекты на Python:| https://github.com/konicaRu/i_am_data_analyst|
-|Мои проекты на Excel: |https://github.com/konicaRu/i_am_data_analyst/tree/master/Excel_task|
-|Мой проект Power BI: |https://github.com/konicaRu/i_am_data_analyst/blob/master/Power_BI_AdventureWorks_Report1.pdf|
-|Полный список пройденных курсов:| https://github.com/konicaRu/my_learning_tracker|
-|Мой блог: |                                             https://konicaru.github.io|
-|Мой CV:     |                                       https://konicaru.github.io/cv/|
-|Курсы, книги, видео, для начинающих аналитиков:     |https://docs.google.com/document/d/1xUZYKFIeMKvZDJDfHD9guJNFtP1UnnWhY1d-aUC0nwc/edit?usp=sharing|
+| Задача | Результат |
+| --- | --- |
+| A/B-тест напоминаний о долге: сегментировал должников по глубине просрочки и поведению, гипотеза — часть просто забывчивы | Конверсия в оплату **+10%**, легло в основу запуска продукта |
+| ABCD-тест новых страниц каталога поставщика | Конверсия в оплату **+6%**, путь до оплаты короче на 2 дня — раскатили на всю аудиторию |
+| RFM-сегментация базы + точечные коммуникации по сегменту «на грани оттока» | Отток **−4,5%** |
+| LLM-разметка тональности и тем обращений клиентов, топ-3 проблемы вынесены в разработку | Доля негативных обращений **−18%** |
+| Финмодель нового тарифа на статистике оплат за 2 года | Прогноз **+10%** выручки за квартал, факт — **+8%** |
+| Локальная RAG-система по базе знаний компании: Confluence → эмбеддинги → LLM с ссылками на источники | Быстрее онбординг и поиск информации внутри команды |
+| Карта поставщиков по регионам + ML-прогноз потенциала подключений | Выявлены регионы с потенциалом прироста прибыли на **15–20%** |
 
-<div style="font-size: 18px; font-family: Arial, sans-serif;">
-  <p style="margin: 0;">Со мной можно связаться:</p>
-  <p style="margin: 0;">
-    <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/phone-512.png" alt="Телефон" width="20" height="20" style="vertical-align: middle;">
-    +7 (958) 584-67-41
-  </p>
-  <p style="margin: 0;">
-    <img src="https://user-images.githubusercontent.com/53256405/228780990-f664b9fc-a103-496a-a45f-a9250951741b.png" alt="Электронная почта" width="20" height="20" style="vertical-align: middle;">
-    dimkochetow@gmail.com
-  </p>
-  <p style="margin: 0;">
-    <a href="https://t.me/konica1970" target="_blank" style="color: #000000; text-decoration: none;">
-      <img src="https://telegram.org/img/t_logo.png" alt="Telegram" width="20" height="20" style="vertical-align: middle;">
-      @konica1970
-    </a>
-  </p>
-  <p style="margin: 0;">
-    <a href="https://wa.me/79643046505?text=Здравствуйте,%20я%20хочу%20связаться%20с%20вами." target="_blank" style="color: #000000; text-decoration: none;">
-      <img src="https://user-images.githubusercontent.com/53256405/228781251-df83c55e-8be7-472b-ac0d-3555b7a069ea.png" alt="WhatsApp" width="20" height="20" style="vertical-align: middle;">
-      +7 (958) 584-67-41
-    </a>
-  </p>
-</div>
+---
 
-	
-![](https://github.com/konicaRu/pictures_blog/blob/master/Logo_Kochetov.jpg)
+## Обо мне
 
+Прохожу путь от гипотезы до продакшена: A/B-тесты, сегментация, юнит-экономика, дерево продуктовых метрик, BI-дашборды. В последний год добавил к этому прикладной AI — собираю RAG-системы и LLM-инструменты, которые автоматизируют рутину аналитика и продуктовой команды.
+
+Работал на стыке банковской аналитики (Power BI/DAX, KPI в реальном времени), продуктовой аналитики B2B-платформы (A/B-тесты, RFM, когорты, финмодели тарифов) и финтеха (юнит-экономика, geo-аналитика, ML-прогноз потенциала).
+
+---
+
+## Стек
+
+**Данные:** Python (pandas, numpy, scikit-learn, statsmodels) · SQL
+
+**BI / визуализация:** Power BI (DAX, Power Query) · Grafana · Redash · DataLens · matplotlib · plotly
+
+**Методы:** A/B-тесты · RFM-сегментация · когортный анализ · кластеризация (k-means) · юнит-экономика · финмоделирование
+
+**AI / LLM:** RAG-системы · промпт-инжиниринг · применение LLM в NLP-задачах (тональность, детект паттернов в тексте)
+
+---
+
+## Проекты
+
+> ⚠️ Ссылка на **HH Bot** сейчас ведёт на приватный репозиторий — GitHub отдаёт 404 для незалогиненного визитора. Сделай его публичным в настройках репозитория (Settings → Danger Zone → Change visibility), иначе работодатель увидит битую ссылку.
+
+| Проект | Описание | Стек | Ссылка |
+| --- | --- | --- | --- |
+| **F1 Predict** | Закрытая лига прогнозов на гонки Формулы-1: расчёт очков, автоматизация через CI/CD, уведомления в Telegram | React · Supabase (Postgres, Auth, RLS) · GitHub Actions | [репозиторий](https://github.com/konicaRu/f1-predict) ✅ |
+| **Local RAG Pipeline** | RAG-система для поиска по внутренней технической документации: двухэтапный скоринг (embeddings + LLM-оценка), реранкер, память диалога — полностью локально, ни одного внешнего API-вызова. В проде на реальной базе — ~1300 документов, ответ за 5–20 сек. Анонимизированная демо-версия рабочего проекта, с разбором архитектуры для Хабра | Python · FastAPI · bge-m3 · Qwen2.5 · llama-cpp-python | [репозиторий](https://github.com/konicaRu/a3_product_759_RAG_public) ✅ |
+| **A3 PDF Markdown** | Desktop-приложение для batch-конвертации PDF/DOCX/PPTX/XLSX в Markdown с OCR и точечным vision-fallback для графиков и схем | Python · PySide6 · PyMuPDF · EasyOCR | [репозиторий](https://github.com/konicaRu/a3_pdf_markdown) ✅ |
+| **HH Vacancy Tracker** | Инструмент сбора и фильтрации вакансий с hh.ru с ручным review, покрыт тестами | Python · Streamlit · pytest | [репозиторий](https://github.com/konicaRu/hh_api_vacany) ✅ |
+| **HH Bot** | Бот-ассистент для откликов на вакансии: парсинг, оценка через LLM, генерация сопроводительного письма | Python · LLM | [репозиторий](https://github.com/konicaRu/hh-bot) ⚠️ приватный |
+| **Editable Mind Map** | Редактируемая радиальная mind-map: drag/zoom/pan, фильтры по тегам, сохранение в localStorage/JSON, без сборки | Vanilla JS (ES-модули) | [репозиторий](https://github.com/konicaRu/mindmap) ✅ |
 
 <details>
-    <summary>Буду дополнять ... </summary>
-	### О себе:
-- 🔭 Сейчас я работаю над ...
-- 🌱 В настоящее время я учу ...
-- 👯 Я хочу сотрудничать с ...
-- 🤔 Я ищу помощи в ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-``` https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ ```
-    <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?konicaru=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?konicaru=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?konicaru=vn7n24fzkq&theme=github_dark"/>
-</div>
-	
+<summary><b>Ранние учебные проекты</b> (Excel, Python, SQL, Power BI — период обучения)</summary>
+<br>
+
+- [i_am_data_analyst](https://github.com/konicaRu/i_am_data_analyst) — архив учебных проектов: Excel, Python, Power BI
+- [my_learning_tracker](https://github.com/konicaRu/my_learning_tracker) — трекер пройденных курсов
+- [data_structures_and_algorithms](https://github.com/konicaRu/data_structures_and_algorithms) — задачи по алгоритмам и структурам данных
+- [Блог](https://konicaru.github.io) — заметки о процессе обучения
+
 </details>
 
+---
 
+## Контакты
+
+📧 [dimkochetow@gmail.com](mailto:dimkochetow@gmail.com) · 💬 [Telegram](https://t.me/konica_f1) · 💼 [LinkedIn](https://www.linkedin.com/in/dimkochetov/)
